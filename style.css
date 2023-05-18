@@ -1,0 +1,58 @@
+:root {
+    --clr-neon: hsl(292, 77%, 48%);
+    --clr-bg: hsl(279, 19%, 58%);
+}
+
+body{
+
+    background: linear-gradient(to right, #a286a5, #552858);
+    color: var(--clr-bg);
+}
+
+h1{
+    text-align: center;
+    margin: 20px;
+    font-size: 5rem;
+    color: rgb(26, 5, 56);
+}
+
+h4{
+    text-align: center;
+    margin: 20px;
+    color: rgb(7, 24, 71);
+}
+
+.area-1{
+    margin: 20px 210px;
+    font-size: 22px;
+    color: rgb(102, 68, 26);
+}
+
+p {
+    font-size: 20px;
+    color: antiquewhite;
+  }
+
+.area-2{
+    margin: 20px 210px;
+    font-size: 22px;
+    color: rgb(102, 68, 26);
+}
+
+.area-3{
+    margin: 20px 210px;
+    font-size: 22px;
+    color: rgb(102, 68, 26);
+}
+
+.area-4{
+    margin: 20px 210px;
+    font-size: 22px;
+    color: rgb(102, 68, 26);
+}
+
+.area-5{
+    margin: 20px 210px;
+    font-size: 22px;
+    color: rgb(102, 68, 26);
+}
